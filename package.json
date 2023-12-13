@@ -62,7 +62,8 @@
   
    
   
-  "start": "node Server.js"
+  "start": "node Server.js",
+   "build":"npm install"
  
   
   }
